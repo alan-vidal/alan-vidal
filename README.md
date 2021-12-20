@@ -28,7 +28,7 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 
 ## 👀 I’m interested in 
 
-now i am interested in improve my programing skill and learn new program language for create more interesting project
+Now I am interested in improve my programing skill and learn new program language for create more interesting project
 
 ## 🌱 I’m currently learning
 
