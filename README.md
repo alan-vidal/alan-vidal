@@ -35,7 +35,7 @@ Now I am interested in improve my programing skill and learn new program languag
 - [x] ~~HTML~~
 - [x] ~~CSS~~
 - [x] SASS
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] SQL
 - [ ] ReactJS
 - [ ] Express
@@ -43,7 +43,7 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] React Native
 - [ ] JestJS
 
-> Why programing? I think the programing skill is a key for develop new project
+> Why programing? I think the programing skill is a key for develop new project...
 
 ## 📫 How to reach me ...
 
