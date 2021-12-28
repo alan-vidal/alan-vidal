@@ -1,8 +1,4 @@
 
-<!---
-alan-vidal/alan-vidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 👋 Hi, I’m @alan-vidal
 
 ## 🧰 At Work
@@ -35,6 +31,7 @@ Now I am interested in improve my programing skill and learn new program languag
 - [x] ~~HTML~~
 - [x] ~~CSS~~
 - [x] SASS
+- [x] Jekyll
 - [x] JavaScript
 - [ ] SQL
 - [ ] ReactJS
@@ -43,7 +40,7 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] React Native
 - [ ] JestJS
 
-> Why programing? I think the programing skill is a key for develop new project...
+> Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
 ## 📫 How to reach me ...
 
