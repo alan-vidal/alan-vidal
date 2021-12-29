@@ -33,6 +33,7 @@ Now I am interested in improve my programing skill and learn new program languag
 - [x] SASS
 - [x] Jekyll
 - [x] JavaScript
+- [x] Bootstrap
 - [ ] SQL
 - [ ] ReactJS
 - [ ] Express
