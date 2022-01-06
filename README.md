@@ -26,7 +26,7 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 
 ### Communication tools
 
-- Google Hangouts ![50%](https://progress-bar.dev/50)
+- Google Hangouts 
 - Zoom
 - Microsoft Teams
 - Slack
@@ -129,11 +129,11 @@ Note over JestJS: For testing
 
 ### 🔨 Arduino
 
-coming soon...
+coming soon... ![30%](https://progress-bar.dev/50)
 
 ### 🛠 Raspberry
 
-coming soon...
+coming soon... ![10%](https://progress-bar.dev/50)
 
 ### 💻 links of interest
 Below I share some links of interest
