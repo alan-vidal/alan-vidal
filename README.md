@@ -47,11 +47,35 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] [React Native](https://reactnative.dev)
 - [ ] [JestJS](https://jestjs.io)
 
-[comment]: <> (Andrew->China: Says Hello
-Note left of Andrew: Note to the\n left of A
-Note right of China: China thinks\nabout it
-China-->Andrew: How are you?
-Andrew->>China: I am good thanks!)
+[comment]: <> (
+https://bramp.github.io/js-sequence-diagrams/
+Title: Path WEB
+HTML --> CSS:
+Note left of HTML: I Start here
+HTML -> Markdown:
+CSS -> SASS:
+Note over Markdown: For curiosity
+Note over SASS: For simplify \n work
+HTML --> JS:
+CSS --> JS:
+JS -> Bootstrap:
+CSS -> Bootstrap:
+Note left of Rust: Other Idea
+Rust -> WebAssembly:
+Rust --> MySQL:
+Note left of Swift: For apple APP
+Note left of NodeJS: Back to APP
+HTML --> NodeJS:
+CSS --> NodeJS:
+JS --> NodeJS:
+NodeJS -> ReactJS:
+NodeJS -> Express:
+NodeJS -> MongoDB:
+MySQL --> MongoDB:
+ReactJS -> React Native:
+ReactJS -> JestJS:
+Note over JestJS: For testing
+)
 
 ### 🔨 Arduino
 
