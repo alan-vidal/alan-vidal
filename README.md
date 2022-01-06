@@ -41,6 +41,16 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] React Native
 - [ ] JestJS
 
+----
+Arduino
+Raspberry
+----
+
+Andrew->China: Says Hello
+Note right of China: China thinks\nabout it
+China-->Andrew: How are you?
+Andrew->>China: I am good thanks!
+
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
 ## 📫 How to reach me ...
