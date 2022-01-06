@@ -12,13 +12,13 @@ Alan Vidal starts his academic path at school in Temuco, south of Chile, after t
 When he finishes university he starts working company in the wood industry, where learn about the importance to work near to people and industrial process, one year later he starts like teacher fellow at Universidad Santa Maria and after that Universidad Adolfo Ibañez, where he working actually. During the last two year, Alan has completed the degrees of JAVA application programming analyst and Learning and Teaching at the University, understanding the importance of methodologies and processes for the development of transversal skills
 
 ## 🪛 Entrepreneurship
-### > Spark Innovation Kit 2017 - present
+### 📌 Spark Innovation Kit 2017 - present
 
 Spark Kit is an interactive board game, which seeks to generate constructive work in pursuit of a solution related to a problem posed by the team.
 
 This work is achieved given that Spark Kit has a structured methodological base, which through a sequence of steps, questions and suggestions seeks to guide the team to an innovative solution with a high creative component.
 
-### > Puerto Studio 2016 - 2019
+### 📌 Puerto Studio 2016 - 2019
 
 Puerto Studio was a consulting firm technology- based with a focus on improving the design process to add value to different products or services; we work in specific with a research center to modify a battery system for an electric car. We understood the complexity of creating new solutions and the importance of the process of design into industry
 
