@@ -22,6 +22,54 @@ This work is achieved given that Spark Kit has a structured methodological base,
 
 Puerto Studio was a consulting firm technology- based with a focus on improving the design process to add value to different products or services; we work in specific with a research center to modify a battery system for an electric car. We understood the complexity of creating new solutions and the importance of the process of design into industry
 
+## 🪜 Software and Computer Skills
+
+### Communication tools
+
+- Google Hangouts
+- Zoom
+- Microsoft Teams
+- Slack
+
+### Spreadsheets
+
+- Excel
+- Google Sheets
+
+### Word Processing and Desktop Publishing Tools
+
+- Microsoft Office Suite
+- Keynote and Page on macOS
+- Google Docs
+
+### Computer Programming
+
+- HTML
+- CSS
+- SASS
+- Markdown
+- JavaScript
+- Arduino/Processing
+
+### Databases
+
+- SQL
+
+### Graphic Design
+
+- Adobe Illustrator
+- Adobe LightRoom
+- Adobe XD
+- Adobe iDesign
+- Miro
+
+### Three-dimensional modeling
+- Autodedk Fusion 360
+- Autodedk Inventor Profesional
+- Cura
+- Maya
+- 3D Max 
+
 ## 👀 I’m interested in 
 
 Now I am interested in improve my programing skill and learn new program language for create more interesting project
@@ -39,7 +87,7 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] [Rust](https://www.rust-lang.org)
 - [ ] [Webassembly](https://webassembly.org)
 - [ ] [Swift](https://www.apple.com/cl/swift/) 🧐
-- [ ] [MySQL](https://www.mysql.com/products/workbench/)
+- [x] [MySQL](https://www.mysql.com/products/workbench/)📚
 - [ ] [NodeJS](https://nodejs.org/en/)
 - [ ] [ReactJS](https://es.reactjs.org)
 - [ ] [Express](https://expressjs.com/es/)
@@ -88,6 +136,8 @@ Note over JestJS: For testing
 - [min CSS](https://www.toptal.com/developers/cssminifier/)
 - Jekyll [Ruby and Rail](https://rubyonrails.org)
 - HUGO [Go](https://go.dev)
+- [Python](https://www.python.org)
+- [Processing](https://processing.org)
 
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
