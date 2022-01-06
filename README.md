@@ -129,9 +129,14 @@ Note over JestJS: For testing
 
 ### 🔨 Arduino
 
+coming soon...
+
 ### 🛠 Raspberry
 
+coming soon...
+
 ### 💻 links of interest
+Below I share some links of interest
 
 - [min CSS](https://www.toptal.com/developers/cssminifier/)
 - Jekyll [Ruby and Rail](https://rubyonrails.org)
