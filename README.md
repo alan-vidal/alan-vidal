@@ -47,23 +47,9 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] [React Native](https://reactnative.dev)
 - [ ] [JestJS](https://jestjs.io)
 
-```sequence {theme="hand"}
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-
- ```ditaa {cmd=true args=["-E"]}
-  +--------+   +-------+    +-------+
-  |        | --+ ditaa +--> |       |
-  |  Text  |   +-------+    |diagram|
-  |Document|   |!magic!|    |       |
-  |     {d}|   |       |    |       |
-  +---+----+   +-------+    +-------+
-      :                         ^
-      |       Lots of work      |
-      +-------------------------+
-  ```
+[comment]: <> (This is a comment, it will not be included)
+<> (Comentario)
+# (comentario)
 
 ### 🔨 Arduino
 
