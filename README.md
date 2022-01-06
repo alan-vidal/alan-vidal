@@ -47,9 +47,11 @@ Now I am interested in improve my programing skill and learn new program languag
 - [ ] [React Native](https://reactnative.dev)
 - [ ] [JestJS](https://jestjs.io)
 
-[comment]: <> (This is a comment, it will not be included)
-<> (Comentario)
-# (comentario)
+[comment]: <> (Andrew->China: Says Hello
+Note left of Andrew: Note to the\n left of A
+Note right of China: China thinks\nabout it
+China-->Andrew: How are you?
+Andrew->>China: I am good thanks!)
 
 ### 🔨 Arduino
 
