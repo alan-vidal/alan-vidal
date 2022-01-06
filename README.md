@@ -26,7 +26,7 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 
 ### Communication tools
 
-- Google Hangouts
+- Google Hangouts ![50%](https://progress-bar.dev/50)
 - Zoom
 - Microsoft Teams
 - Slack
