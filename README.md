@@ -28,8 +28,8 @@ Now I am interested in improve my programing skill and learn new program languag
 
 ## 🌱 I’m currently learning
 
-- [x] ~~HTML~~
-- [x] ~~CSS~~
+- [x] [HTML](https://developer.mozilla.org/es/docs/Web/HTML) 🧑‍💻
+- [x] CSS
 - [x] SASS
 - [x] Jekyll
 - [x] JavaScript
