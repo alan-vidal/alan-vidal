@@ -28,26 +28,34 @@ Now I am interested in improve my programing skill and learn new program languag
 
 ## 🌱 I’m currently learning
 
-- [x] [HTML](https://developer.mozilla.org/es/docs/Web/HTML) 🧑‍💻
-- [x] CSS
-- [x] SASS
-- [ ] Markdown
-- [x] Jekyll / HUGO
-- [x] JavaScript
-- [x] Bootstrap
-- [ ] Rust
-- [ ] Webassembly
-- [ ] SQL
-- [ ] ReactJS
-- [ ] Express
-- [ ] MongoDB
-- [ ] React Native
-- [ ] JestJS
+- [x] [HTML](https://developer.mozilla.org/es/docs/Web/HTML) 🧑‍💻👌
+- [x] [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 🧑‍💻👌
+- [x] [SASS](https://sass-lang.com) 📚
+- [x] [Markdown](https://www.markdownguide.org) 📚
+- [x] [Jekyll](https://jekyllrb.com) 🧐 / [HUGO](https://gohugo.io) 📚
+- [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) 📚
+- [ ] [TypeScript](https://www.typescriptlang.org)
+- [x] [Bootstrap](https://getbootstrap.com) 📚
+- [ ] [Rust](https://www.rust-lang.org)
+- [ ] [Webassembly](https://webassembly.org)
+- [ ] [Swift](https://www.apple.com/cl/swift/) 🧐
+- [ ] [MySQL](https://www.mysql.com/products/workbench/)
+- [ ] [NodeJS](https://nodejs.org/en/)
+- [ ] [ReactJS](https://es.reactjs.org)
+- [ ] [Express](https://expressjs.com/es/)
+- [ ] [MongoDB](https://www.mongodb.com)
+- [ ] [React Native](https://reactnative.dev)
+- [ ] [JestJS](https://jestjs.io)
 
-Arduino
-Raspberry
---
+### 🔨 Arduino
 
+### 🛠 Raspberry
+
+### 💻 links of interest
+
+- [min CSS](https://www.toptal.com/developers/cssminifier/)
+- Jekyll [Ruby and Rail](https://rubyonrails.org)
+- HUGO [Go](https://go.dev)
 
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
