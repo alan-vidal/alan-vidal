@@ -77,7 +77,7 @@ ReactJS -> JestJS:
 Note over JestJS: For testing
 )
 
-![Path](diagram-2.svg)
+![Path]()
 
 ### 🔨 Arduino
 
