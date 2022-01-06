@@ -129,11 +129,11 @@ Note over JestJS: For testing
 
 ### 🔨 Arduino
 
-coming soon... ![30%](https://progress-bar.dev/50)
+coming soon... ![30%](https://progress-bar.dev/30)
 
 ### 🛠 Raspberry
 
-coming soon... ![10%](https://progress-bar.dev/50)
+coming soon... ![10%](https://progress-bar.dev/10)
 
 ### 💻 links of interest
 Below I share some links of interest
