@@ -53,6 +53,18 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
+ ```ditaa {cmd=true args=["-E"]}
+  +--------+   +-------+    +-------+
+  |        | --+ ditaa +--> |       |
+  |  Text  |   +-------+    |diagram|
+  |Document|   |!magic!|    |       |
+  |     {d}|   |       |    |       |
+  +---+----+   +-------+    +-------+
+      :                         ^
+      |       Lots of work      |
+      +-------------------------+
+  ```
+
 ### 🔨 Arduino
 
 ### 🛠 Raspberry
