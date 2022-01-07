@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m @alan-vidal
 
-## 🧰 At Work
+## 🧰 ==At Work==
 A self-described creative and determinate person, Alan is a professor who is committed to teaching Design driven-innovation and transmit the importance to detect and analyze problems as a strategy for development. He has spent the last 4 years creating an educational strategy and path to learn and apply design in the context of engineering for developing a new solution and is currently most passionate about the work he is doing to engage the student in your learning process through active methodologies for learning.
 
 As a product design engineer turned professor, Alan has developed a unique perspective when it comes to education, innovation, and entrepreneurship. Influenced by real experiences and industrial analysis, he aspires to continue as a teacher and pass the knowledge on to more people in the next stage of his career.
