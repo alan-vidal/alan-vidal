@@ -135,8 +135,7 @@ coming soon... ![30%](https://progress-bar.dev/30)
 
 coming soon... ![10%](https://progress-bar.dev/10)
 
-### 💻 links of interest
-Below I share some links of interest
+### :computer: Below I share some links of interest
 
 - [min CSS](https://www.toptal.com/developers/cssminifier/)
 - Jekyll [Ruby and Rail](https://rubyonrails.org)
@@ -146,6 +145,6 @@ Below I share some links of interest
 
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
-## 📫 How to reach me ...
+## :mailbox: How to reach me ...
 
 https://www.linkedin.com/in/alanvidalc/
