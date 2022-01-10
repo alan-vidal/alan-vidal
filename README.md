@@ -74,58 +74,39 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 
 Now I am interested in improve my programing skill and learn new program language for create more interesting project
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently learning and interested
+
+Code enthusiast
+### Web
 
 - [x] [HTML](https://developer.mozilla.org/es/docs/Web/HTML) 🧑‍💻👌
 - [x] [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 🧑‍💻👌
-- [x] [SASS](https://sass-lang.com) 📚
+    - [x] [SASS](https://sass-lang.com) 📚
+    - [x] [Bootstrap](https://getbootstrap.com) 📚
+    - [ ] [MDV](https://mdbootstrap.com/docs/standard/)
 - [x] [Markdown](https://www.markdownguide.org) 📚
-- [x] [Jekyll](https://jekyllrb.com) 🧐 / [HUGO](https://gohugo.io) 📚
+- [x] [Jekyll](https://jekyllrb.com) 🧐
+- [x] [HUGO](https://gohugo.io) 📚    *Framwork* 
 - [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) 📚
-- [ ] [TypeScript](https://www.typescriptlang.org)
-- [x] [Bootstrap](https://getbootstrap.com) 📚
-- [ ] [Rust](https://www.rust-lang.org)
+    - [ ] [TypeScript](https://www.typescriptlang.org)
 - [ ] [Webassembly](https://webassembly.org)
+
+### APP
+
 - [ ] [Swift](https://www.apple.com/cl/swift/) 🧐
-- [x] [MySQL](https://www.mysql.com/products/workbench/)📚
+    - [ ] [Swift UI](https://developer.apple.com/tutorials/swiftui) 🧐
 - [ ] [NodeJS](https://nodejs.org/en/)
 - [ ] [ReactJS](https://es.reactjs.org)
 - [ ] [Express](https://expressjs.com/es/)
 - [ ] [MongoDB](https://www.mongodb.com)
 - [ ] [React Native](https://reactnative.dev)
 - [ ] [JestJS](https://jestjs.io)
+### Develop
 
-[comment]: <> (
-https://bramp.github.io/js-sequence-diagrams/
-Title: Path WEB
-HTML --> CSS:
-Note left of HTML: I Start here
-HTML -> Markdown:
-CSS -> SASS:
-Note over Markdown: For curiosity
-Note over SASS: For simplify \n work
-HTML --> JS:
-CSS --> JS:
-JS -> Bootstrap:
-CSS -> Bootstrap:
-Note left of Rust: Other Idea
-Rust -> WebAssembly:
-Rust --> MySQL:
-Note left of Swift: For apple APP
-Note left of NodeJS: Back to APP
-HTML --> NodeJS:
-CSS --> NodeJS:
-JS --> NodeJS:
-NodeJS -> ReactJS:
-NodeJS -> Express:
-NodeJS -> MongoDB:
-MySQL --> MongoDB:
-ReactJS -> React Native:
-ReactJS -> JestJS:
-Note over JestJS: For testing
-)
-
-![Path](pathCoding.svg)
+- [ ] [Rust](https://www.rust-lang.org)
+- [x] [MySQL](https://www.mysql.com/products/workbench/)📚
+- [ ] [Python](https://www.python.org)
+    - [ ] [Spacy](https://spacy.io)
 
 ### 🔨 Arduino
 
@@ -140,7 +121,6 @@ coming soon... ![10%](https://progress-bar.dev/10)
 - [min CSS](https://www.toptal.com/developers/cssminifier/)
 - Jekyll [Ruby and Rail](https://rubyonrails.org)
 - HUGO [Go](https://go.dev)
-- [Python](https://www.python.org)
 - [Processing](https://processing.org)
 
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
