@@ -10,7 +10,9 @@ As a product design engineer turned professor, Alan has developed a unique persp
 
 Alan Vidal starts his academic path at school in Temuco, south of Chile, after that, he moves to Valparaiso to get a product design engineer degree from the University Tecnica Federico Santa Maria where he develops abilities like teamwork, creativity, strategic product development, and methodologies of design, during the university he work as a professor's assistant, in three- dimensional modeling courses, product design strategies and product workshop in different years. With the last college degree work Alan create a Spark Innovation Kit, a card-based game that allows you to analyze a problem from a new perspective.
 
-When he finishes university he starts working company in the wood industry, where learn about the importance to work near to people and industrial process, one year later he starts like teacher fellow at Universidad Santa Maria and after that Universidad Adolfo Ibañez, where he working actually. During the last two year, Alan has completed the degrees of JAVA application programming analyst and Learning and Teaching at the University, understanding the importance of methodologies and processes for the development of transversal skills
+When he finishes university he starts working company in the wood industry, where learn about the importance to work near to people and industrial process, one year later he starts like teacher fellow at Universidad Santa Maria and after that Universidad Adolfo Ibañez, where he working actually. During the last two year, Alan has completed the diplomat of JAVA application programming analyst and Learning and Teaching at the University, understanding the importance of methodologies and processes for the development of transversal skills
+
+---
 
 ## :nut_and_bolt: Entrepreneurship
 
@@ -121,6 +123,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [Spacy](https://spacy.io)
 
 ---
+[//]: <> (## List of Project)
 
 ## :paperclip: Applied project
 
