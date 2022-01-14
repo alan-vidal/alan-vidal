@@ -97,7 +97,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [x] [SASS](https://sass-lang.com) :books:
   - [x] [Bootstrap](https://getbootstrap.com) :books:
   - [ ] [MDV](https://mdbootstrap.com/docs/standard/)
-- [x] [Markdown](https://www.markdownguide.org) :books:
+- [x] [Markdown](https://www.markdownguide.org) :ok_hand:
 - [x] [Jekyll](https://jekyllrb.com) :worried:
 - [x] [HUGO](https://gohugo.io) :books: *Framwork*
 - [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) :books:
