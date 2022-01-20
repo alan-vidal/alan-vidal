@@ -102,7 +102,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 - [x] [HUGO](https://gohugo.io) :books: *Framwork*
 - [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) :books:
   - [ ] [TypeScript](https://www.typescriptlang.org)
-- [ ] [Webassembly](https://webassembly.org)
+- [ ] [WebAssembly](https://webassembly.org)
 
 ### :iphone: APP
 
@@ -118,9 +118,12 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 ### :floppy_disk: Develop
 
 - [ ] [Rust](https://www.rust-lang.org)
+- [ ] [Docker](https://www.docker.com)
+  - [ ] [Docker Swam](https://docs.docker.com/get-started/swarm-deploy/)
 - [x] [MySQL](https://www.mysql.com/products/workbench/):books:
 - [ ] [Python](https://www.python.org)
   - [ ] [Spacy](https://spacy.io)
+  - [ ] [pyTest](https://docs.pytest.org/en/6.2.x/)
 
 ---
 [//]: <> (## List of Project)
@@ -147,6 +150,7 @@ coming soon... ![10%](https://progress-bar.dev/10)
 - Jekyll [Ruby and Rail](https://rubyonrails.org)
 - HUGO [Go](https://go.dev)
 - [Processing](https://processing.org)
+- [Checklist Design](https://www.checklist.design)
 
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
