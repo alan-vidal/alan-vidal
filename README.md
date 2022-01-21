@@ -28,9 +28,13 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 
 [//]: <> (Descripcion de habilidades generales como herramientas de diseno)
 [//]: <> (## :muscle: General Skills & Design tools)
-[//]: <> (descripcion de estas habilidades, lista de herramietnas de trabajo, vincular con la informacion de clases o corsus - quizas incluir metodos o metodologias de trabajo)
+[//]: <> (descripcion de estas habilidades, lista de herramietnas de trabajo, vincular con la informacion de clases o corsus - quizas incluir metodos o metodologias de trabajo AQUIE DEJE UNA EDICION EN VIM)
 [//]: <> (:camera: incluir finalmente algunos hobbies como la fotografia)
-
+[//]: <> (Podemos agregar
+1. My Learning Path
+2. My Methodology of work 'Design & Inovation'
+3. Hobies 
+)
 ## :computer: Software and Computer Skills
 
 ### Communication tools
@@ -110,6 +114,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [Swift UI](https://developer.apple.com/tutorials/swiftui) :worried:
 - [ ] [NodeJS](https://nodejs.org/en/)
 - [ ] [ReactJS](https://es.reactjs.org)
+  - [ ] [NextJs](https://nextjs.org)
 - [ ] [Express](https://expressjs.com/es/)
 - [ ] [MongoDB](https://www.mongodb.com)
 - [ ] [React Native](https://reactnative.dev)
@@ -131,6 +136,8 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 ## :paperclip: Applied project
 
 Throughout my university and professional work, I have developed different projects that link sensors, actuators controlled by Arduino and Raspberry PI, now I order a project to show it
+
+[//]: <> (Pancake Robot)
 
 ### :hammer: Arduino
 
