@@ -30,11 +30,9 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 [//]: <> (## :muscle: General Skills & Design tools)
 [//]: <> (descripcion de estas habilidades, lista de herramietnas de trabajo, vincular con la informacion de clases o corsus - quizas incluir metodos o metodologias de trabajo AQUIE DEJE UNA EDICION EN VIM)
 [//]: <> (:camera: incluir finalmente algunos hobbies como la fotografia)
-[//]: <> (Podemos agregar
-1. My Learning Path
-2. My Methodology of work 'Design & Inovation'
-3. Hobies 
-)
+
+[//]: <> (Podemos agregar 1. My Learning Path 2. My Methodology of work 'Design & Inovation' 3. Hobies - COMO ENLACES A LA PAGINA WEB)
+
 ## :computer: Software and Computer Skills
 
 ### Communication tools
@@ -128,6 +126,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 - [x] [MySQL](https://www.mysql.com/products/workbench/):books:
 - [ ] [Python](https://www.python.org)
   - [ ] [Spacy](https://spacy.io)
+  - [ ] [pyUnit](https://wiki.python.org/moin/PyUnit)
   - [ ] [pyTest](https://docs.pytest.org/en/6.2.x/)
 
 ---
