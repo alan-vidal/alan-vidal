@@ -1,4 +1,10 @@
-dir_to_ignore/node_module
-.json
-.js
-.husky
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora la carpeta node_modules
+node_modules
+
+# Ignora todos los archivos de texto
+*.json
+*.js
+*.husky
