@@ -104,6 +104,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 - [x] [HUGO](https://gohugo.io) :books: *Framwork*
 - [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) :books:
   - [ ] [TypeScript](https://www.typescriptlang.org)
+  - [ ] [ESLint](https://eslint.org)
 - [ ] [WebAssembly](https://webassembly.org)
 
 ### :iphone: APP
@@ -120,6 +121,12 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 
 ### :floppy_disk: Develop
 
+- [x] [Git - GitHub](https://github.com) :ok_hand:
+  - [x] [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
+  - [x] [Commitlint](https://commitlint.js.org/#/)
+  - [x] [Husky](https://typicode.github.io/husky/#/)
+  - [x] [Prettier](https://prettier.io)
+  - [ ] [semantic-release](https://github.com/semantic-release/semantic-release)
 - [ ] [Rust](https://www.rust-lang.org)
 - [ ] [Docker](https://www.docker.com)
   - [ ] [Docker Swam](https://docs.docker.com/get-started/swarm-deploy/)
@@ -127,7 +134,6 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 - [ ] [Python](https://www.python.org)
   - [ ] [Spacy](https://spacy.io)
   - [ ] [pyUnit](https://wiki.python.org/moin/PyUnit)
-  - [ ] [pyTest](https://docs.pytest.org/en/6.2.x/)
 
 ---
 [//]: <> (## List of Project)
