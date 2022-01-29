@@ -34,7 +34,7 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 [//]: <> (Podemos agregar 1. My Learning Path 2. My Methodology of work 'Design & Inovation' 3. Hobies - COMO ENLACES A LA PAGINA WEB)
 
 ## :computer: Software and Computer Skills
-
+[//]: <> (Esto podria ser una tabla mas 'bonita')
 ### Communication tools
 
 - Google Hangouts
