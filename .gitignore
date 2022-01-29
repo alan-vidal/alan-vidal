@@ -2,9 +2,14 @@
 .DS_store
 
 # Ignora la carpeta node_modules
-node_modules
+dir_toignore/node_modules
 
-# Ignora todos los archivos de texto
+# Ignora
+package-lock.json
+package.json
+.gitignore
+commitlint.config.js
+
 *.json
 *.js
 *.husky
