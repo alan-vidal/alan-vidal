@@ -1,0 +1,4 @@
+dir_to_ignore/node_module
+.json
+.js
+.husky
