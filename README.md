@@ -27,70 +27,36 @@ This work is achieved given that Spark Kit has a structured methodological base,
 Puerto Studio was a consulting firm technology- based with a focus on improving the design process to add value to different products or services; we work in specific with a research center to modify a battery system for an electric car. We understood the complexity of creating new solutions and the importance of the process of design into industry
 
 [//]: <> (Descripcion de habilidades generales como herramientas de diseno)
+
 [//]: <> (## :muscle: General Skills & Design tools)
-[//]: <> (descripcion de estas habilidades, lista de herramietnas de trabajo, vincular con la informacion de clases o corsus - quizas incluir metodos o metodologias de trabajo AQUIE DEJE UNA EDICION EN VIM)
-[//]: <> (:camera: incluir finalmente algunos hobbies como la fotografia)
+
+[//]: <> (descripcion de estas habilidades, lista de herramietnas de trabajo, vincular con la informacion de clases o corsus - quizas incluir metodos o metodologias de trabajo)
 
 [//]: <> (Podemos agregar 1. My Learning Path 2. My Methodology of work 'Design & Inovation' 3. Hobies - COMO ENLACES A LA PAGINA WEB)
 
 ## :computer: Software and Computer Skills
-[//]: <> (Esto podria ser una tabla mas 'bonita')
-### Communication tools
 
-- Google Hangouts
-- Zoom
-- Microsoft Teams
-- Slack
-
-### Spreadsheets
-
-- Excel
-- Google Sheets
-
-### Word Processing and Desktop Publishing Tools
-
-- Microsoft Office Suite
-- Keynote and Page on macOS
-- Google Docs
-
-### Computer Programming
-
-- HTML
-- CSS
-- SASS
-- Markdown
-- JavaScript
-- Arduino/Processing
-
-### Databases
-
-- SQL
-
-### Graphic Design
-
-- Adobe Illustrator
-- Adobe LightRoom
-- Adobe XD
-- Adobe inDesign
-- Miro
-
-### Three-dimensional modeling
-
-- Autodedk Fusion 360
-- Autodedk Inventor Profesional
-- Cura
-- Maya
-- 3D Max
+| Skill | Software |
+| :---         |     :---      |
+| **Communication tools**   | <ul><li>Google Hangouts</li><li>Zoom</li><li>Microsoft Teams</li><li>Slack</li></ul>|
+| **Spreadsheets**   | <ul><li>Excel</li><li>Google Sheets</li></ul>|
+| **Word Processing and Desktop Publishing Tools**   | <ul><li>Microsoft Office Suite</li><li>Keynote and Page on macOS</li><li>Google Docs</li></ul>|
+| **Computer Programming**   | <ul><li>HTML</li><li>CSS</li><li>SASS</li><li>Markdown</li><li>JavaScript</li><li>Arduino/Processing</li></ul>|
+| **Databases**   | <ul><li>SQL</li></ul>|
+| **Graphic Design**   | <ul><li>Adobe Illustrator</li><li>Adobe LightRoom</li><li>Adobe XD</li><li>Adobe inDesign</li><li>Miro</li></ul>|
+| **Three-dimensional modeling**   | <ul><li>Autodedk Fusion 360</li><li>Autodedk Inventor Profesional</li><li>Cura</li><li>Maya</li><li>3D Max</li></ul>|
 
 ---
+[//]: <> (:camera: incluir finalmente algunos hobbies como la fotografia, enlaces a la pagina)
 
 ## :eyes: I’m interested in
 
-Now I am interested in improve my programing skill and learn new program language for create more interesting project, link physical products or services to the digital environment
+Now I am interested in improve my UX/UI experience and programing skill and learn new program language for create more interesting project, link physical products or services to the digital environment
 
-## :seedling: I’m currently learning and interested
+## :seedling: I’m currently learning and/or interested
 
-Code enthusiast, I don't plan on learning all of them, but it's a route I've put together over time
+Code enthusiast, I don't plan on learning all of them, but it's a route I've put together over time.
+**When I find something interesting I add it here :point_down:**
 
 ### Web
 
@@ -103,6 +69,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 - [x] [Jekyll](https://jekyllrb.com) :worried:
 - [x] [HUGO](https://gohugo.io) :books: *Framwork*
 - [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) :books:
+  - [ ] [ThreeJS](https://threejs.org)
   - [ ] [TypeScript](https://www.typescriptlang.org)
   - [ ] [ESLint](https://eslint.org)
 - [ ] [WebAssembly](https://webassembly.org)
@@ -134,9 +101,12 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
 - [ ] [Python](https://www.python.org)
   - [ ] [Spacy](https://spacy.io)
   - [ ] [pyUnit](https://wiki.python.org/moin/PyUnit)
+- [ ] [Ethereum](https://ethereum.org/es/) :flushed:
+  - [ ] [Solidity](https://docs.soliditylang.org/en/v0.8.11/)
 
 ---
 [//]: <> (## List of Project)
+[//]: <> (## We can put a subindex on lenguages link to preject)
 
 ## :paperclip: Applied project
 
@@ -159,15 +129,13 @@ coming soon... ![10%](https://progress-bar.dev/10)
 :blush:
 
 - [min CSS](https://www.toptal.com/developers/cssminifier/)
-- Jekyll [Ruby and Rail](https://rubyonrails.org)
-- HUGO [Go](https://go.dev)
+- Jekyll - [Ruby and Rail](https://rubyonrails.org)
+- HUGO - [Go](https://go.dev)
 - [Processing](https://processing.org)
 - [Checklist Design](https://www.checklist.design)
 
 > Why programing? I think the programing skill is a key for develop new project and "Humans need to be able to control the interaction between people and machines."
 
-## :mailbox: How to reach me
-
-:point_down:
+## :mailbox: How to reach me :point_down:
 
 <https://www.linkedin.com/in/alanvidalc/>
