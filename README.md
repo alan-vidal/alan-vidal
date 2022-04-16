@@ -36,17 +36,18 @@ Puerto Studio was a consulting firm technology- based with a focus on improving 
 
 ## :computer: Software and Computer Skills
 
-| Skill | Software |
-| :---         |     :---      |
-| **Communication tools**   | <ul><li>Google Hangouts</li><li>Zoom</li><li>Microsoft Teams</li><li>Slack</li></ul>|
-| **Spreadsheets**   | <ul><li>Excel</li><li>Google Sheets</li></ul>|
-| **Word Processing and Desktop Publishing Tools**   | <ul><li>Microsoft Office Suite</li><li>Keynote and Page on macOS</li><li>Google Docs</li></ul>|
-| **Computer Programming**   | <ul><li>HTML</li><li>CSS</li><li>SASS</li><li>Markdown</li><li>JavaScript</li><li>Arduino/Processing</li></ul>|
-| **Databases**   | <ul><li>SQL</li></ul>|
-| **Graphic Design**   | <ul><li>Adobe Illustrator</li><li>Adobe LightRoom</li><li>Adobe XD</li><li>Adobe inDesign</li><li>Miro</li></ul>|
-| **Three-dimensional modeling**   | <ul><li>Autodedk Fusion 360</li><li>Autodedk Inventor Profesional</li><li>Cura</li><li>Maya</li><li>3D Max</li></ul>|
+| Skill                                            | Software                                                                                                             |
+| :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **Communication tools**                          | <ul><li>Google Hangouts</li><li>Zoom</li><li>Microsoft Teams</li><li>Slack</li></ul>                                 |
+| **Spreadsheets**                                 | <ul><li>Excel</li><li>Google Sheets</li></ul>                                                                        |
+| **Word Processing and Desktop Publishing Tools** | <ul><li>Microsoft Office Suite</li><li>Keynote and Page on macOS</li><li>Google Docs</li></ul>                       |
+| **Computer Programming**                         | <ul><li>HTML</li><li>CSS</li><li>SASS</li><li>Markdown</li><li>JavaScript</li><li>Arduino/Processing</li></ul>       |
+| **Databases**                                    | <ul><li>SQL</li></ul>                                                                                                |
+| **Graphic Design**                               | <ul><li>Adobe Illustrator</li><li>Adobe LightRoom</li><li>Adobe XD</li><li>Adobe inDesign</li><li>Miro</li></ul>     |
+| **Three-dimensional modeling**                   | <ul><li>Autodedk Fusion 360</li><li>Autodedk Inventor Profesional</li><li>Cura</li><li>Maya</li><li>3D Max</li></ul> |
 
 ---
+
 [//]: <> (:camera: incluir finalmente algunos hobbies como la fotografia, enlaces a la pagina)
 
 ## :eyes: I’m interested in
@@ -67,11 +68,15 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [MDV](https://mdbootstrap.com/docs/standard/)
 - [x] [Markdown](https://www.markdownguide.org) :ok_hand:
 - [x] [Jekyll](https://jekyllrb.com) :worried:
-- [x] [HUGO](https://gohugo.io) :books: *Framwork*
+- [x] [HUGO](https://gohugo.io) :books: _Framwork_
 - [x] [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) :books:
   - [ ] [ThreeJS](https://threejs.org)
+  - [ ] [P5.JS](https://p5js.org/es/) JavaScript library for creative coding
+  - [ ] [ML 5 JS](https://ml5js.org) Friendly machine Learning for the WEB - [TensorFlow Resources](https://www.tensorflow.org/resources/learn-ml?hl=es-419)
   - [ ] [TypeScript](https://www.typescriptlang.org)
   - [ ] [ESLint](https://eslint.org)
+  - [ ] [JS Libreries](https://codingpotions.com/mejores-librerias-javascript-2017)
+- [ ] [GraphQL](https://graphql.org)
 - [ ] [WebAssembly](https://webassembly.org)
 
 ### :iphone: APP
@@ -83,6 +88,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [NextJs](https://nextjs.org)
 - [ ] [Express](https://expressjs.com/es/)
 - [ ] [MongoDB](https://www.mongodb.com)
+- [ ] [ArangoDB](https://www.arangodb.com)
 - [ ] [React Native](https://reactnative.dev)
 - [ ] [JestJS](https://jestjs.io)
 
@@ -94,6 +100,7 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [x] [Husky](https://typicode.github.io/husky/#/)
   - [x] [Prettier](https://prettier.io)
   - [ ] [semantic-release](https://github.com/semantic-release/semantic-release)
+- [ ] [Refactoring](https://refactoring.guru/es)
 - [ ] [Rust](https://www.rust-lang.org)
 - [ ] [Docker](https://www.docker.com)
   - [ ] [Docker Swam](https://docs.docker.com/get-started/swarm-deploy/)
@@ -103,8 +110,10 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [pyUnit](https://wiki.python.org/moin/PyUnit)
 - [ ] [Ethereum](https://ethereum.org/es/) :flushed:
   - [ ] [Solidity](https://docs.soliditylang.org/en/v0.8.11/)
+- [ ] [VIM](https://www.vim.org)
 
 ---
+
 [//]: <> (## List of Project)
 [//]: <> (## We can put a subindex on lenguages link to preject)
 
