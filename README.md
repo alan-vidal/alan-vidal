@@ -76,7 +76,10 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [TypeScript](https://www.typescriptlang.org)
   - [ ] [ESLint](https://eslint.org)
   - [ ] [JS Libreries](https://codingpotions.com/mejores-librerias-javascript-2017)
+  - [ ] [RevealJs](https://revealjs.com/#/5/0/0)
+  - [ ] [Storybook](https://storybook.js.org)
 - [ ] [GraphQL](https://graphql.org)
+- [ ] [TypeScript](https://www.typescriptlang.org)
 - [ ] [WebAssembly](https://webassembly.org)
 
 ### :iphone: APP
@@ -102,9 +105,11 @@ Code enthusiast, I don't plan on learning all of them, but it's a route I've put
   - [ ] [semantic-release](https://github.com/semantic-release/semantic-release)
 - [ ] [Refactoring](https://refactoring.guru/es)
 - [ ] [Rust](https://www.rust-lang.org)
+  - [ ] [egui](https://docs.rs/egui/latest/egui/)
 - [ ] [Docker](https://www.docker.com)
   - [ ] [Docker Swam](https://docs.docker.com/get-started/swarm-deploy/)
 - [x] [MySQL](https://www.mysql.com/products/workbench/):books:
+- [ ] [PostgreSQL](https://www.postgresql.org)
 - [ ] [Python](https://www.python.org)
   - [ ] [Spacy](https://spacy.io)
   - [ ] [pyUnit](https://wiki.python.org/moin/PyUnit)
